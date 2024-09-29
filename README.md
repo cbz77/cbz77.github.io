@@ -1,1 +1,1 @@
-React + Typescript + Tailwind CSS + DaisyUI
+INDEX PAGE OF CBZ77.GITHUB.IO
