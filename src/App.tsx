@@ -19,8 +19,7 @@ function App() {
           </div>
 
           <div className='flex flex-wrap gap-3'>
-            <a href='https://cbz77.github.io/ai_assistant' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'>AI assistant</a>
-            {/* <a href='https://cbz77.github.io/react_ts_test' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'></a> */}
+            <a href='https://cbz77.github.io/simple_website' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'>Simple website</a>
           </div>
 
         </div>
