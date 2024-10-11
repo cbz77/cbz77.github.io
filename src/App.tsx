@@ -11,12 +11,16 @@ function App() {
 
       <main>
         
-        <div className='container mx-auto m-w-6/12 mt-10'>
+        <div className='container mx-auto w-screen mt-10'>
         
-          <div className='flex flex-row gap-3'>
-            <a href='https://cbz77.github.io/ai_assistant' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>AI assistant</a>
-            <a href='https://cbz77.github.io/react_ts_test' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>Typescript Test</a>
-            <a href='https://cbz77.github.io/simple_website' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>Simple website</a>
+          <div className='flex flex-wrap gap-3 mb-3'>
+            <a href='https://cbz77.github.io/ai_assistant' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'>AI assistant</a>
+            <a href='https://cbz77.github.io/react_ts_test' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'>Typescript Test</a>
+          </div>
+
+          <div className='flex flex-wrap gap-3'>
+            <a href='https://cbz77.github.io/ai_assistant' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'>AI assistant</a>
+            {/* <a href='https://cbz77.github.io/react_ts_test' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32 flex-1'></a> */}
           </div>
 
         </div>
