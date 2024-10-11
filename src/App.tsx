@@ -16,6 +16,7 @@ function App() {
           <div className='flex flex-row gap-3'>
             <a href='https://cbz77.github.io/ai_assistant' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>AI assistant</a>
             <a href='https://cbz77.github.io/react_ts_test' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>Typescript Test</a>
+            <a href='https://cbz77.github.io/simple_website' className='btn btn-neutral text-3xl font-bold text-blue-500 w-1/2 min-h-32'>Simple website</a>
           </div>
 
         </div>
